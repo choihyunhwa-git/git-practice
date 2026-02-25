@@ -1,2 +1,3 @@
 # git-practice
-git 실습을 위한저장소
+git과 github 실습을 위한저장소
+작성일자 : 2026.2.25
